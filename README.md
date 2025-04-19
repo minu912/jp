@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="ko">
 <head>
   <meta charset="UTF-8">
   <title>일본어 퀴즈</title>
