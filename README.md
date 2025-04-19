@@ -7,6 +7,7 @@
     h1 { font-size: 2em; margin-bottom: 20px; }
     #question { font-size: 1.8em; margin-bottom: 20px; }
     input { font-size: 1.5em; padding: 10px; width: 80%; border-radius: 10px; border: none; text-align: center; }
+    <button id="submitBtn">제출</button>
     .result { margin-top: 20px; font-size: 1.2em; }
     #score { margin-top: 10px; font-size: 1em; }
     button { margin-top: 30px; padding: 10px 20px; font-size: 1em; border: none; border-radius: 10px; background: #008cba; color: white; }
